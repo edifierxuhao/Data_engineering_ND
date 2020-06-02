@@ -167,3 +167,183 @@ INFO  [CompactionExecutor:1059] 2020-05-26 20:50:25,585 AutoSavingCache.java:395
 INFO  [IndexSummaryManager:1] 2020-05-26 20:50:27,762 IndexSummaryRedistribution.java:78 - Redistributing index summaries
 INFO  [IndexSummaryManager:1] 2020-05-26 22:11:25,083 IndexSummaryRedistribution.java:78 - Redistributing index summaries
 INFO  [IndexSummaryManager:1] 2020-05-26 23:11:25,094 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 00:11:25,102 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:1173] 2020-05-27 01:43:06,190 AutoSavingCache.java:395 - Saved KeyCache (35 items) in 36 ms
+INFO  [IndexSummaryManager:1] 2020-05-27 01:43:08,506 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 02:43:08,640 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 03:43:08,623 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 04:43:08,628 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:1446] 2020-05-27 05:43:06,026 AutoSavingCache.java:395 - Saved KeyCache (36 items) in 4 ms
+INFO  [IndexSummaryManager:1] 2020-05-27 05:43:08,631 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 06:43:08,599 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 07:43:08,590 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 08:43:08,582 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:1651] 2020-05-27 09:43:06,018 AutoSavingCache.java:395 - Saved KeyCache (39 items) in 50 ms
+INFO  [IndexSummaryManager:1] 2020-05-27 09:43:08,590 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 10:43:08,628 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 11:43:08,699 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [Service Thread] 2020-05-27 12:08:50,462 GCInspector.java:285 - ParNew GC in 275ms.  CMS Old Gen: 48265496 -> 48321504; Par Eden Space: 335544320 -> 0; Par Survivor Space: 9349608 -> 10744064
+INFO  [IndexSummaryManager:1] 2020-05-27 12:43:08,768 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:1786] 2020-05-27 13:43:05,850 AutoSavingCache.java:395 - Saved KeyCache (40 items) in 32 ms
+INFO  [IndexSummaryManager:1] 2020-05-27 13:43:08,795 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 14:43:08,772 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 16:02:11,137 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 17:02:11,319 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:1949] 2020-05-27 18:04:55,558 AutoSavingCache.java:395 - Saved KeyCache (41 items) in 41 ms
+INFO  [IndexSummaryManager:1] 2020-05-27 18:04:58,867 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 19:04:58,841 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 20:04:58,842 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 21:44:26,495 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:2107] 2020-05-27 22:44:23,043 AutoSavingCache.java:395 - Saved KeyCache (44 items) in 6 ms
+INFO  [IndexSummaryManager:1] 2020-05-27 22:44:26,486 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-27 23:44:26,454 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 01:21:27,413 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 02:21:27,409 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:2349] 2020-05-28 03:21:23,788 AutoSavingCache.java:395 - Saved KeyCache (45 items) in 6 ms
+INFO  [IndexSummaryManager:1] 2020-05-28 03:21:27,401 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 04:21:27,386 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 05:21:27,376 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 06:21:27,365 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:2612] 2020-05-28 07:21:23,655 AutoSavingCache.java:395 - Saved KeyCache (47 items) in 3 ms
+INFO  [IndexSummaryManager:1] 2020-05-28 07:21:27,362 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 08:21:27,347 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 09:21:27,340 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 10:21:27,339 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:2866] 2020-05-28 11:21:23,527 AutoSavingCache.java:395 - Saved KeyCache (49 items) in 12 ms
+INFO  [IndexSummaryManager:1] 2020-05-28 11:21:27,343 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 13:28:24,688 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 14:28:24,737 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 15:52:27,090 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:3058] 2020-05-28 17:30:24,745 AutoSavingCache.java:395 - Saved KeyCache (51 items) in 49 ms
+INFO  [IndexSummaryManager:1] 2020-05-28 17:30:28,830 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 18:30:28,800 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 19:30:28,799 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 21:04:38,759 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:3301] 2020-05-28 22:04:34,877 AutoSavingCache.java:395 - Saved KeyCache (52 items) in 168 ms
+INFO  [IndexSummaryManager:1] 2020-05-28 22:04:38,766 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-28 23:04:38,763 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 00:04:38,886 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [Service Thread] 2020-05-29 00:53:10,147 GCInspector.java:285 - ParNew GC in 696ms.  CMS Old Gen: 59947272 -> 61045368; Par Eden Space: 335544320 -> 0; Par Survivor Space: 6276360 -> 6621536
+INFO  [IndexSummaryManager:1] 2020-05-29 01:38:51,985 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:3474] 2020-05-29 02:38:47,429 AutoSavingCache.java:395 - Saved KeyCache (55 items) in 94 ms
+INFO  [IndexSummaryManager:1] 2020-05-29 02:38:51,988 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 03:38:51,975 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 04:38:51,978 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 05:38:51,974 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:3743] 2020-05-29 06:38:47,208 AutoSavingCache.java:395 - Saved KeyCache (56 items) in 3 ms
+INFO  [IndexSummaryManager:1] 2020-05-29 06:38:51,957 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 07:38:51,933 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 08:38:51,926 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 09:38:51,966 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:4016] 2020-05-29 10:38:47,134 AutoSavingCache.java:395 - Saved KeyCache (57 items) in 44 ms
+INFO  [IndexSummaryManager:1] 2020-05-29 10:38:51,998 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 12:06:55,787 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 13:34:37,580 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 14:34:37,668 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 15:47:10,750 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:4158] 2020-05-29 15:47:15,241 AutoSavingCache.java:395 - Saved KeyCache (60 items) in 4479 ms
+WARN  [Service Thread] 2020-05-29 16:32:24,240 GCInspector.java:283 - ParNew GC in 1822ms.  CMS Old Gen: 65792760 -> 65806704; Par Eden Space: 335544320 -> 0; Par Survivor Space: 7272096 -> 7851888
+INFO  [Service Thread] 2020-05-29 16:32:25,836 StatusLogger.java:47 - Pool Name                    Active   Pending      Completed   Blocked  All Time Blocked
+INFO  [Service Thread] 2020-05-29 16:32:31,389 StatusLogger.java:51 - MutationStage                     0         0              5         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:31,393 StatusLogger.java:51 - ViewMutationStage                 0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:31,400 StatusLogger.java:51 - ReadStage                         0         0             98         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:31,400 StatusLogger.java:51 - RequestResponseStage              0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:31,513 StatusLogger.java:51 - ReadRepairStage                   0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,199 StatusLogger.java:51 - CounterMutationStage              0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,199 StatusLogger.java:51 - MiscStage                         0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,237 StatusLogger.java:51 - CompactionExecutor                0         0         217231         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,241 StatusLogger.java:51 - MemtableReclaimMemory             0         0            274         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,243 StatusLogger.java:51 - PendingRangeCalculator            0         0              1         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,300 StatusLogger.java:51 - GossipStage                       0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,302 StatusLogger.java:51 - SecondaryIndexManagement          0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,326 StatusLogger.java:51 - HintsDispatcher                   0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,334 StatusLogger.java:51 - MigrationStage                    0         0              6         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,357 StatusLogger.java:51 - MemtablePostFlush                 0         0            314         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,357 StatusLogger.java:51 - PerDiskMemtableFlushWriter_0         0         0            274         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,368 StatusLogger.java:51 - ValidationExecutor                0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,372 StatusLogger.java:51 - Sampler                           0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,373 StatusLogger.java:51 - MemtableFlushWriter               0         0            274         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,396 StatusLogger.java:51 - InternalResponseStage             0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,398 StatusLogger.java:51 - AntiEntropyStage                  0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,490 StatusLogger.java:51 - CacheCleanupExecutor              0         0              0         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,500 StatusLogger.java:51 - Native-Transport-Requests         0         0            290         0                 0
+
+INFO  [Service Thread] 2020-05-29 16:32:32,572 StatusLogger.java:61 - CompactionManager                 0         0
+INFO  [Service Thread] 2020-05-29 16:32:32,589 StatusLogger.java:73 - MessagingService                n/a       0/0
+INFO  [Service Thread] 2020-05-29 16:32:32,608 StatusLogger.java:83 - Cache Type                     Size                 Capacity               KeysToSave
+INFO  [Service Thread] 2020-05-29 16:32:32,626 StatusLogger.java:85 - KeyCache                       5832                104857600                      all
+INFO  [Service Thread] 2020-05-29 16:32:32,627 StatusLogger.java:91 - RowCache                          0                        0                      all
+INFO  [Service Thread] 2020-05-29 16:32:32,627 StatusLogger.java:98 - Table                       Memtable ops,data
+INFO  [Service Thread] 2020-05-29 16:32:32,661 StatusLogger.java:101 - system_distributed.parent_repair_history                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,661 StatusLogger.java:101 - system_distributed.repair_history                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,661 StatusLogger.java:101 - system_distributed.view_build_status                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,661 StatusLogger.java:101 - system.compaction_history                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,661 StatusLogger.java:101 - system.schema_aggregates                  0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,674 StatusLogger.java:101 - system.schema_triggers                    0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,674 StatusLogger.java:101 - system.size_estimates            10320,313396
+INFO  [Service Thread] 2020-05-29 16:32:32,674 StatusLogger.java:101 - system.paxos                              0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,674 StatusLogger.java:101 - system.views_builds_in_progress                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,674 StatusLogger.java:101 - system.batches                            0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,674 StatusLogger.java:101 - system.schema_keyspaces                   0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,674 StatusLogger.java:101 - system.sstable_activity                  4,85
+INFO  [Service Thread] 2020-05-29 16:32:32,678 StatusLogger.java:101 - system.batchlog                           0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,678 StatusLogger.java:101 - system.schema_columns                     0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,691 StatusLogger.java:101 - system.hints                              0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,694 StatusLogger.java:101 - system.IndexInfo                          0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,694 StatusLogger.java:101 - system.schema_columnfamilies                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,708 StatusLogger.java:101 - system.schema_functions                   0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,708 StatusLogger.java:101 - system.built_views                        0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,708 StatusLogger.java:101 - system.peer_events                        0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,710 StatusLogger.java:101 - system.range_xfers                        0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,718 StatusLogger.java:101 - system.peers                              0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,720 StatusLogger.java:101 - system.transferred_ranges                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,720 StatusLogger.java:101 - system.schema_usertypes                   0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,720 StatusLogger.java:101 - system.local                              0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,721 StatusLogger.java:101 - system.available_ranges                   0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,721 StatusLogger.java:101 - system.prepared_statements                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,721 StatusLogger.java:101 - system_schema.columns                     0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,722 StatusLogger.java:101 - system_schema.types                       0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,722 StatusLogger.java:101 - system_schema.indexes                     0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,722 StatusLogger.java:101 - system_schema.keyspaces                   0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,722 StatusLogger.java:101 - system_schema.dropped_columns                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,722 StatusLogger.java:101 - system_schema.aggregates                  0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,722 StatusLogger.java:101 - system_schema.triggers                    0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,722 StatusLogger.java:101 - system_schema.tables                      0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,723 StatusLogger.java:101 - system_schema.views                       0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,723 StatusLogger.java:101 - system_schema.functions                   0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,724 StatusLogger.java:101 - udacity.music_library                   2,235
+INFO  [Service Thread] 2020-05-29 16:32:32,725 StatusLogger.java:101 - system_auth.roles                         0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,725 StatusLogger.java:101 - system_auth.role_members                  0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,725 StatusLogger.java:101 - system_auth.resource_role_permissons_index                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,725 StatusLogger.java:101 - system_auth.role_permissions                 0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,725 StatusLogger.java:101 - system_traces.sessions                    0,0
+INFO  [Service Thread] 2020-05-29 16:32:32,725 StatusLogger.java:101 - system_traces.events                      0,0
+INFO  [IndexSummaryManager:1] 2020-05-29 16:47:23,283 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 18:02:21,658 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [Service Thread] 2020-05-29 18:49:34,954 GCInspector.java:285 - ParNew GC in 235ms.  CMS Old Gen: 65806704 -> 66960200; Par Eden Space: 335544320 -> 0; Par Survivor Space: 7851888 -> 8108320
+INFO  [IndexSummaryManager:1] 2020-05-29 19:38:43,382 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [CompactionExecutor:4314] 2020-05-29 20:38:21,181 AutoSavingCache.java:395 - Saved KeyCache (61 items) in 77 ms
+INFO  [IndexSummaryManager:1] 2020-05-29 20:38:43,382 IndexSummaryRedistribution.java:78 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2020-05-29 21:48:25,858 IndexSummaryRedistribution.java:78 - Redistributing index summaries
